@@ -24,7 +24,7 @@
 		
 			<div class="word">
 			
-				<h3>DELETE BOOK SUCCESS!!</h3>
+				<h3>DELETE BOOK SUCCESS!!(김은영)</h3>
 				
 			</div>
 		
