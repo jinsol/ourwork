@@ -5,13 +5,13 @@
 <table>
 	<thead>
 		<tr>
-			<th>도서명</th>
+			<th>이경진이경진이경진</th>
 			<th>저자</th>
 			<th>발행처</th>
 			<th>발행연도</th>
 			<th>ISBN</th>
 			<th>청구기호</th>
-			<th>대출가능</th>
+			<th>대출가능(김은영)</th>
 		</tr>
 	</thead>
 	
