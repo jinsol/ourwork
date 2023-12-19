@@ -25,7 +25,7 @@
 		
 			<div class="word">
 			
-				<h3>FULL LIST OF BOOKS</h3>
+				<h3>FULL LIST OF BOOKS(김은영)</h3>
 				
 			</div>
 			
