@@ -24,9 +24,7 @@
 		<div id="section_wrap">
 		
 			<div class="word">
-			
-				<h3>FULL LIST OF BOOKS(dlrudwls)</h3>
-				
+				<h3>FULL LIST OF BOOKS(김은영)</h3>
 			</div>
 			
 			
