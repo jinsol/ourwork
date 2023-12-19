@@ -11,7 +11,7 @@
 			<th>발행연도</th>
 			<th>ISBN</th>
 			<th>청구기호</th>
-			<th>대출가능</th>
+			<th>대출가능(이경진)</th>
 		</tr>
 	</thead>
 	
