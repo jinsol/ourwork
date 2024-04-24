@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 2024.04.24 _ 테스트용 수정 _ 백진솔 -->
+<!-- 2024.04.24 _ 테스트용 수정 (두번째, 오후 1시 3분)_ 백진솔 -->
 <classpath>
 	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
